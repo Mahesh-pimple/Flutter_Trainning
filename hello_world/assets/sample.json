@@ -1,0 +1,95 @@
+{
+  "default": true,
+  "type": "Most Watched",
+  "items": [{
+    "id": "P1",
+    "Title": "Top Gun",
+    "Year": "2019",
+    "Runtime": "7",
+    "Timing": "17:50- 19:30",
+    "StartTime": "14:48",
+    "Poster": "https://th.bing.com/th/id/OIP.USsQSmiDTpyNlL3siL3QKQHaHa?pid=ImgDet&rs=1"
+  },
+    {
+      "id": "P2",
+      "Title": "The Fabelmans",
+      "Year": "2018",
+      "Runtime": "4",
+      "Timing": "17:30- 20:45",
+      "StartTime": "19:03",
+      "Poster": "https://th.bing.com/th/id/OIP.6tILdJaWpqPQhkaj2oKCIwHaFG?pid=ImgDet&rs=1"
+    },
+    {
+      "id": "P4",
+      "Title": "Decision to Leave",
+      "Year": "2016",
+      "Runtime": "6",
+      "Timing": "20:45- 23:13",
+      "StartTime": "20:00",
+      "Poster": "https://drakorclass.com/wp-content/uploads/2022/07/decision-to-leave.jpeg "
+    },
+    {
+      "id": "P5",
+      "Title": "The Northman",
+      "Year": "2014",
+      "Runtime": "1",
+      "Timing": "14:40- 16:55",
+      "StartTime": "20:34",
+      "Poster": "https://www.newdvdreleasedates.com/images/movies/the-northman-2022.jpg"
+    },
+    {
+      "id": "P6",
+      "Title": "See How They Run",
+      "Year": "2004",
+      "Runtime": "10",
+      "Timing": "10:46- 12:45",
+      "StartTime": "21:07",
+      "Poster": "https://th.bing.com/th/id/OIP.fCXftTdq8x9Jiq8jzQAxvwHaEo?pid=ImgDet&rs=1"
+    },
+    {
+      "id": "P7",
+      "Title": "The Woman King",
+      "Year": "2019",
+      "Runtime": "2",
+      "Timing": "10:46- 11:30",
+      "StartTime": "21:56",
+      "Poster": "https://th.bing.com/th/id/OIP.-2k3mz1UukBf4qEZjGHPqAHaEK?pid=ImgDet&rs=1 "
+    },
+    {
+      "id": "P8",
+      "Title": "Shazam",
+      "Year": "2018",
+      "Runtime": "4",
+      "Timing": "08:30- 10:45",
+      "StartTime": "22:28",
+      "Poster": "https://th.bing.com/th/id/OIP.Fm4uPgeEVjhoLfgXMh1u7gHaEE?pid=ImgDet&rs=1"
+    },
+    {
+      "id": "P9",
+      "Title": "Doctor Strange",
+      "Year": "2016",
+      "Runtime": "8",
+      "Timing": "17:50- 19:30",
+      "StartTime": "23:00",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SX300.jpg"
+    },
+    {
+      "id": "P10",
+      "Title": "John Wick",
+      "Year": "2014",
+      "Runtime": "3",
+      "Timing": "20:45- 23:13",
+      "StartTime": "23:27",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg"
+    },
+    {
+      "id": "P11",
+      "Title": "The Notebook",
+      "Year": "2004",
+      "Runtime": "9",
+      "Timing": "08:30- 10:45",
+      "StartTime": "24:00",
+      "Poster": "https://th.bing.com/th/id/OIP.8eJ2pyGHI19mtlKhSjgH0QHaEK?w=317&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+    }
+  ]
+}
